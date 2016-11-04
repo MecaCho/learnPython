@@ -12,7 +12,7 @@ import unittest
 from HTMLTestRunner import HTMLTestRunner
 from addtestfile import *
 class Render(unittest.TestCase):
-    '''Render Test'''
+    '''Linux Render Test'''
     def test_Render(self):
         '''RenderImage'''
         box_width = 90
@@ -179,7 +179,7 @@ if __name__ == '__main__':
     testunit.addTest(Render("test_Render"))
     # test log
     now = time.strftime("%Y-%m-%d %H_%M_%S")
-    testresult_filename = './Render_Test_Result/' + 'Firefox-33-' + 'selenium-2.48-' + now + '-RenderResult.html'
+    testresult_filename = './Render_Test_Result/' + 'Firefox-24-' + 'selenium-2.48-' + now + '-RenderResult.html'
     fp = open(testresult_filename, 'wb')
     runner = HTMLTestRunner(stream=fp, title='Render Test Report', description='Test Detail:')
     runner.run(testunit)
