@@ -179,9 +179,9 @@ if __name__ == '__main__':
     testunit.addTest(Render("test_Render"))
     # test log
     now = time.strftime("%Y-%m-%d %H_%M_%S")
-    testresult_filename = './Render_Test_Result/' + 'Firefox-24-' + 'selenium-2.48-' + now + '-RenderResult.html'
+    testresult_filename = './Linux_Render_Test_Result/' + 'Firefox-24-' + 'selenium-2.48-' + now + '-LinuxRenderResult.html'
     fp = open(testresult_filename, 'wb')
-    runner = HTMLTestRunner(stream=fp, title='Render Test Report', description='Test Detail:')
+    runner = HTMLTestRunner(stream=fp, title='Linux Render Test Report', description='Test Detail:')
     runner.run(testunit)
     fp.close()
 
