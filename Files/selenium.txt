@@ -1,0 +1,4 @@
+1.pipy.Python.org/pypi/setuptools   download setuptools
+2.cmd 当前路径下：Python setup.py install
+3.pypi.Python.org/pypi/pypi/pipy
+4.python setup.py install
