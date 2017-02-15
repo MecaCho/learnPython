@@ -1,0 +1,299 @@
+o error.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\escaping.p
+y to escaping.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\etreewrapp
+er.py to etreewrapper.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\frange.py
+to frange.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\htmlformat
+ters.py to htmlformatters.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\importer.p
+y to importer.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\markuputil
+s.py to markuputils.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\markupwrit
+ers.py to markupwriters.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\match.py t
+o match.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\misc.py to
+ misc.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\normalizin
+g.py to normalizing.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\ordereddic
+t.py to ordereddict.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\platform.p
+y to platform.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\recommenda
+tions.py to recommendations.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\robotenv.p
+y to robotenv.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\robotinspe
+ct.py to robotinspect.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\robotpath.
+py to robotpath.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\robottime.
+py to robottime.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\robottypes
+.py to robottypes.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\setter.py
+to setter.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\text.py to
+ text.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\unic.py to
+ unic.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\utf8reader
+.py to utf8reader.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\utils\__init__.p
+y to __init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\assign
+er.py to assigner.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\filese
+tter.py to filesetter.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\finder
+s.py to finders.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\isvar.
+py to isvar.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\notfou
+nd.py to notfound.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\replac
+er.py to replacer.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\scopes
+.py to scopes.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\splitt
+er.py to splitter.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\store.
+py to store.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\tables
+etter.py to tablesetter.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\variab
+les.py to variables.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\variables\__init
+__.py to __init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\version.py to ve
+rsion.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\writer\aligners.
+py to aligners.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\writer\dataextra
+ctor.py to dataextractor.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\writer\datafilew
+riter.py to datafilewriter.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\writer\filewrite
+rs.py to filewriters.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\writer\formatter
+s.py to formatters.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\writer\htmlforma
+tter.py to htmlformatter.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\writer\htmltempl
+ate.py to htmltemplate.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\writer\rowsplitt
+er.py to rowsplitter.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\writer\__init__.
+py to __init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\robot\__init__.py to _
+_init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\lib\__init__.py to __init_
+_.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\log\log.py to log.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\log\__init__.py to __init_
+_.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\namespace\cache.py to cach
+e.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\namespace\embeddedargs.py
+to embeddedargs.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\namespace\local_namespace.
+py to local_namespace.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\namespace\namespace.py to
+namespace.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\namespace\resourcefactory.
+py to resourcefactory.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\namespace\suggesters.py to
+ suggesters.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\namespace\variablefetcher.
+py to variablefetcher.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\namespace\__init__.py to _
+_init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\pluginapi\plugin.py to plu
+gin.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\pluginapi\tree_aware_plugi
+n_mixin.py to tree_aware_plugin_mixin.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\pluginapi\__init__.py to _
+_init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\preferences\configobj.py t
+o configobj.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\preferences\editor.py to e
+ditor.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\preferences\editors.py to
+editors.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\preferences\excludes.py to
+ excludes.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\preferences\imports.py to
+imports.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\preferences\saving.py to s
+aving.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\preferences\settings.py to
+ settings.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\preferences\widgets.py to
+widgets.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\preferences\__init__.py to
+ __init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\publish\html\__init__.py t
+o __init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\publish\messages.py to mes
+sages.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\publish\messagetype.py to
+messagetype.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\publish\publisher.py to pu
+blisher.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\publish\__init__.py to __i
+nit__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\recentfiles\recentfiles.py
+ to recentfiles.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\recentfiles\__init__.py to
+ __init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\robotapi.py to robotapi.py
+c
+byte-compiling C:\Python27\Lib\site-packages\robotide\run\configmanagerui.py to
+configmanagerui.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\run\process.py to process.
+pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\run\runanything.py to runa
+nything.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\run\ui.py to ui.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\run\__init__.py to __init_
+_.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\searchtests\dialogsearchte
+sts.py to dialogsearchtests.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\searchtests\searchtests.py
+ to searchtests.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\searchtests\__init__.py to
+ __init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\spec\iteminfo.py to itemin
+fo.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\spec\librarydatabase.py to
+ librarydatabase.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\spec\libraryfetcher.py to
+libraryfetcher.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\spec\librarymanager.py to
+librarymanager.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\spec\specimporter.py to sp
+ecimporter.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\spec\xmlreaders.py to xmlr
+eaders.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\spec\__init__.py to __init
+__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\actiontriggers.py to ac
+tiontriggers.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\filedialogs.py to filed
+ialogs.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\images.py to images.pyc
+
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\keywordsearch.py to key
+wordsearch.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\mainframe.py to mainfra
+me.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\notebook.py to notebook
+.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\pluginmanager.py to plu
+ginmanager.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\preview.py to preview.p
+yc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\progress.py to progress
+.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\resourcedialogs.py to r
+esourcedialogs.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\review.py to review.pyc
+
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\searchdots.py to search
+dots.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\tagdialogs.py to tagdia
+logs.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\tree.py to tree.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\treenodehandlers.py to
+treenodehandlers.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\ui\__init__.py to __init__
+.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\usages\commands.py to comm
+ands.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\usages\UsageRunner.py to U
+sageRunner.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\usages\usagesdialog.py to
+usagesdialog.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\usages\__init__.py to __in
+it__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\utils\eventhandler.py to e
+venthandler.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\utils\highlightmatcher.py
+to highlightmatcher.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\utils\printing.py to print
+ing.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\utils\variablematcher.py t
+o variablematcher.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\utils\versioncomparator.py
+ to versioncomparator.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\utils\__init__.py to __ini
+t__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\validators\__init__.py to
+__init__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\version.py to version.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\button.py to butto
+n.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\dialog.py to dialo
+g.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\font.py to font.py
+c
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\htmlwindow.py to h
+tmlwindow.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\images.py to image
+s.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\label.py to label.
+pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\list.py to list.py
+c
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\popupmenu.py to po
+pupmenu.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\sizers.py to sizer
+s.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\text.py to text.py
+c
+byte-compiling C:\Python27\Lib\site-packages\robotide\widgets\__init__.py to __i
+nit__.pyc
+byte-compiling C:\Python27\Lib\site-packages\robotide\__init__.py to __init__.py
+c
+running install_scripts
+copying build\scripts-2.7\ride.py -> C:\Python27\Scripts
+copying build\scripts-2.7\ride_postinstall.py -> C:\Python27\Scripts
+running install_egg_info
+Writing C:\Python27\Lib\site-packages\robotframework_ride-1.5.2.1-py2.7.egg-info
+
+
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>
+E:\Tools\robotframework-ride-1.5.2.1>python
+Python 2.7.12 (v2.7.12:d33e0cf91556, Jun 27 2016, 15:24:40) [MSC v.1500 64 bit (
+AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> from robotide import main
+Wrong wxPython version.
+You need to install wxPython 2.8.12.1 with unicode support to run RIDE.
+wxPython 2.8.12.1 can be downloaded from http://sourceforge.net/projects/wxpytho
+n/files/wxPython/2.8.12.1/
+
+E:\Tools\robotframework-ride-1.5.2.1>

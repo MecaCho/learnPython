@@ -1,0 +1,64 @@
+C:/Python33/Lib/site-packages/django;C:/Python33/Scripts   #环境变量
+
+django-admin.exe startproject #projectname
+    manage.py ----- Django项目里面的工具，通过它可以调用django shell和数据库等。
+    settings.py ---- 包含了项目的默认设置，包括数据库信息，调试标志以及其他一些工作的变量。
+    urls.py ----- 负责把URL模式映射到应用程序。
+    
+python manage.py startapp appname
+
+同步数据库：python manage.py syncdb 
+    django移除了syncdb命令，同步（迁移）数据库用如下两个命令：
+     python manage.py makemigrations
+     python manage.py migrate
+
+INSTALLED_APPS = (
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'blog',
+)
+     
+启动服务器：python manage.py runserver
+     django ver...
+     Starting development server at http://127.0.0.1:8000/
+     Quit...
+     链接："GET / HTTP/1.1 " 200 1767
+ 
+
+##设计model，blog目录下的models.py文件
+from django.contrib import admin
+
+# Create your models here.
+class BlogPost(models.Model):
+    title=model.CharField(max_length=150)
+    body =models.TextField()
+    timestamp = models.DateTimeField()
+
+admin.site.register(BlogPost) 
+
+再次初始化数据库：1、python manage.py makemigrations appname
+                  2、python manage.py syncdb
+
+
+                  
+再次runserver
+
+
+修改models：
+    class BlogPostAdmin(admin.ModelAdmin):
+        list_display = ('title','timestamp')
+    
+    admin.site.register(BlogPost,BlogPostAdmin)
+
+blog的公共部分：   
+从Django的角度看，一个页面具有三个典型的组件：
+    一个模板（template）：模板负责把传递进来的信息显示出来。
+    一个视图（view）：视图负责从数据库获取需要显示的信息。
+    一个URL模式：它负责把收到的请求和你的试图函数匹配，有时候也会向视图传递一些参数。
+    
+    
+    
